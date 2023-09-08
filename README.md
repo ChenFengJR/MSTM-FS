@@ -3,7 +3,7 @@
 This repository is released for our code and dataset in [our Inf. Sci. 2023 paper](https://www.sciencedirect.com/science/article/pii/S0020025522015626?via%3Dihub). The dataset is contained within the folder  `data`, which includes the two visible-infrared test sets `1-vs-nir` and `2-vs-lwir`  and the negative pool `pascal-voc`. The main codes are written and run under `matlab` platform.
 
 ## Preliminary
-* Download toolbox, model , and datasets from Baidu netdisk. The following link is permanently effective. If you have any other requirements, please do not hesitate to contact me at chen_feng@hust.edu.cn.
+* Download toolbox, model, and datasets from Baidu netdisk. The following link is permanently effective. If you have any other requirements, please do not hesitate to contact me at chen_feng@hust.edu.cn.
 
   ```
   Link：https://pan.baidu.com/s/1_ypJ_Fdm8AUex9qkzvtM7g?pwd=j6mg 
